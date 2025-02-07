@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.venv/
+algo/
+*.csv
+.~lock.svc_mfo_features.csv#
+.*.csv*
+*.png
+.idea/
+__pycache__
